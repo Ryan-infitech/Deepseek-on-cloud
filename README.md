@@ -1,3 +1,9 @@
+<div align="right">
+
+<a href="README.md"><img src="https://flagcdn.com/w40/gb.png" width="25"></a> | <a href="README-ID.md"><img src="https://flagcdn.com/w40/id.png" width="20"></a>
+
+</div>
+
 # DeepSeek Cloud Chatbot
 
 A semi-local chatbot implementation using DeepSeek 1.5B language model with cloud tunneling via Ngrok. This project allows you to run a powerful AI chatbot locally while making it accessible through a cloud connection. FYI you can use another model 😁
@@ -78,3 +84,15 @@ Feel free to open issues and submit pull requests to improve the project.
 - DeepSeek for their amazing language model
 - Ollama for the model serving infrastructure
 - Ngrok for providing the tunneling service
+
+## 📬 Contact
+
+[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285157517798)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ryan.septiawan__)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rian-septiawan-23b0a5351/)
+
+<br>
+
+---
+
+<p align="center">Made with ❤️ for fun</p>
