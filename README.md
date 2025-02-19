@@ -4,9 +4,13 @@
 
 </div>
 
-# DeepSeek Cloud Chatbot
+# Run DeepSeek On Cloud Computing
 
 A semi-local chatbot implementation using DeepSeek 1.5B language model with cloud tunneling via Ngrok. This project allows you to run a powerful AI chatbot locally while making it accessible through a cloud connection. FYI you can use another model 😁
+
+<div align=center>
+<img src="https://github.com/Ryan-infitech/Deepseek-on-cloud/blob/main/Media/preview.gif?raw=true" >
+</div>
 
 ## 🌟 Features
 

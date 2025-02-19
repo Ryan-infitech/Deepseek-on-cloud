@@ -4,9 +4,13 @@
 
 </div>
 
-# DeepSeek Cloud Chatbot
+# Jalanin Deepseek Di Cloud Buat PC Kentang :v
 
 Implementasi chatbot semi-lokal menggunakan model bahasa DeepSeek 1.5B dengan terowongan cloud melalui Ngrok. Proyek ini memungkinkan Anda menjalankan chatbot AI yang powerful secara lokal sambil membuatnya dapat diakses melalui koneksi cloud. FYI Anda bisa menggunakan model lain 😁
+
+<div align=center>
+<img src="https://github.com/Ryan-infitech/Deepseek-on-cloud/blob/main/Media/preview.gif?raw=true" >
+</div>
 
 ## 🌟 Fitur
 
