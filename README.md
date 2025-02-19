@@ -21,8 +21,8 @@ A semi-local chatbot implementation using DeepSeek 1.5B language model with clou
 - Local Python client application
 
 ## 🛠️ Requirements
-<div align=center>
-<img src="https://github.com/Ryan-infitech/Sistem-Absensi-Dengan-Face-Recognition/blob/main/readme/icons8-python.gif?raw=true" ><img src="https://github.com/Ryan-infitech/Sistem-Absensi-Dengan-Face-Recognition/blob/main/readme/ngrokk.gif?raw=true" ><img src="https://github.com/Ryan-infitech/Sistem-Absensi-Dengan-Face-Recognition/blob/main/readme/googlecolab.gif?raw=true" >
+<div align="left">
+<img src="https://github.com/Ryan-infitech/Sistem-Absensi-Dengan-Face-Recognition/blob/main/readme/icons8-python.gif?raw=true" width="80" ><img src="https://github.com/Ryan-infitech/Sistem-Absensi-Dengan-Face-Recognition/blob/main/readme/ngrokk.gif?raw=true" width="80"><img src="https://github.com/Ryan-infitech/Sistem-Absensi-Dengan-Face-Recognition/blob/main/readme/googlecolab.gif?raw=true" width="80">
 </div>
 
 ### Server-side (Google Colab)
